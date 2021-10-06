@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [
+        "fake_bpy_modules_2.93-20210701"
+    ],
+    "python.analysis.extraPaths": [
+        "fake_bpy_modules_2.93-20210701"
+    ]
+}
